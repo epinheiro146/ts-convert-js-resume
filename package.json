@@ -1,0 +1,15 @@
+{
+  "name": "ts-convert-js-resume",
+  "version": "1.0.0",
+  "description": "You will create a resume that exists entirely within the developer console.",
+  "main": "app.js",
+  "scripts": {
+    "dev": "tsc app.ts -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.0.2"
+  }
+}
